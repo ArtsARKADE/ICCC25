@@ -8,7 +8,8 @@ Audio data: ground truth example.
 ### Audio data: ground truth example
 
 
-! [Human-MC Flow Model Example] (Images/Human-MC Flow Model Example.png)
+![Human-MC Flow Model Example](Images/Human-MC%20Flow%20Model%20Example.png)
+
 
 
 
