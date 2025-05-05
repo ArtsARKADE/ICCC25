@@ -7,6 +7,8 @@ Audio data: ground truth example.
 
 ### Audio data: ground truth example
 
+The ground truth auduo represents the voice, cadence and rhyme scheme that the various Text To Speech (TTS) models attempt to emulate.
+
 
 ![Human-MC Flow Model Example](Images/Human-MC%20Flow%20Model%20Example.png)
 
